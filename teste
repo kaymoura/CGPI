@@ -1,0 +1,19 @@
+Baseando-se nos resultados mostrados na imagem com a aplicação dos filtros, aqui estão sugestões de como você pode responder as perguntas da atividade:
+
+### 1. **Como a imagem original mudou após a aplicação de cada filtro?**
+   - **Filtro Média 7x7 e 15x15**: A imagem suavizou consideravelmente, com a redução de detalhes. O **Filtro Média 15x15** suavizou ainda mais do que o 7x7, tornando os detalhes mais borrados.
+   - **Filtro Mediana 7 e 15**: Similar aos filtros de média, a imagem ficou suavizada, mas o **Filtro Mediana 7** preserva um pouco mais as bordas em comparação ao Filtro de Média. O **Filtro Mediana 15** resulta em uma suavização mais acentuada.
+   - **Filtro Sobel X+Y**: Esse filtro realçou fortemente as bordas da imagem, destacando as áreas de transição de intensidade entre as superfícies dos morangos.
+
+### 2. **Qual filtro foi mais eficaz para suavizar a imagem?**
+   - O **Filtro Média 15x15** foi o mais eficaz na suavização da imagem, pois apresentou um efeito de desfoque muito mais forte, o que é visível pela perda significativa de detalhes.
+
+### 3. **E qual foi mais eficaz para destacar as bordas?**
+   - O **Filtro Sobel X+Y** foi o mais eficaz para destacar as bordas, como pode ser observado no resultado final, onde as bordas dos morangos ficaram bem delineadas, enquanto as áreas internas perderam a suavidade.
+
+### 4. **Quais situações podem exigir o uso de cada tipo de filtro em um projeto real?**
+   - **Filtros de Média e Mediana**: Esses filtros são úteis em projetos que envolvem a remoção de ruído em imagens, como fotografias tiradas em ambientes com baixa iluminação ou para suavização de texturas antes de aplicar algoritmos de reconhecimento de objetos.
+   - **Filtro Sobel**: Ideal para detecção de bordas, que é essencial em aplicações de visão computacional como reconhecimento de objetos, segmentação de imagens e rastreamento de bordas para robôs ou sistemas de inspeção industrial.
+
+### Experimentos futuros:
+Agora, você pode continuar experimentando com diferentes tamanhos de kernel para observar como essas variações afetam os resultados, especialmente com relação ao equilíbrio entre suavização e preservação de bordas.
