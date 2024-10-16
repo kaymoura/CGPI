@@ -64,25 +64,17 @@ pip install numpy opencv-python matplotlib pygame Pillow PyOpenGL
 
 Aqui estão alguns exemplos dos recursos implementados neste repositório:
 
-- **Iluminação Phong em Objetos 3D**:
+- **Atividade de Filtros**:
    ```bash
-   python iluminacao_phong.py
+   python script.py
    ```
 
-- **Detecção de Bordas com OpenCV**:
-   ```bash
-   python detecao_bordas.py
-   ```
-
-- **Mapeamento de Textura em Superfícies**:
-   ```bash
-   python mapeamento_textura.py
-   ```
 
 ## 📄 **Referências**
 
 Este repositório segue as referências e materiais teóricos utilizados ao longo da disciplina, incluindo:
 
+- Aulas com Professora Otilia na Faculdade.
 - Livros de Computação Gráfica.
 - Documentação oficial das bibliotecas.
 - Artigos científicos e tutoriais online.
