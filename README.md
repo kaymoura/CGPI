@@ -69,6 +69,11 @@ Aqui estão alguns exemplos dos recursos implementados neste repositório:
    python script.py
    ```
 
+- **Atividade de Ruidos**:
+   ```bash
+   python codigo.py
+   ```
+
 
 ## 📄 **Referências**
 
