@@ -25,4 +25,4 @@ def aplicar_filtros(img):
     plt.show()
 
 # Chamar a função com o nome da sua imagem
-aplicar_filtros('sua_imagem.jpg')
+aplicar_filtros('C:/Users/user/Documents/GitHub/CGPI/Atividade Avaliativa/fotoAntiga.jpg')
